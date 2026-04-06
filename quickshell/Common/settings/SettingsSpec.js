@@ -446,6 +446,7 @@ var SPEC = {
     displayProfileAutoSelect: { def: false },
     displayShowDisconnected: { def: false },
     displaySnapToEdge: { def: true },
+    connectedFrameBarStyleBackups: { def: {} },
 
     barConfigs: {
         def: [{
