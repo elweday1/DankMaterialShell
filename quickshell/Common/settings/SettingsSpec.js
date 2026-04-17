@@ -564,7 +564,8 @@ var SPEC = {
     frameBarSize: { def: 40 },
     frameShowOnOverview: { def: false },
     frameBlurEnabled: { def: true },
-    frameCloseGaps: { def: false }
+    frameCloseGaps: { def: false },
+    frameLauncherEmergeSide: { def: "bottom" }
 };
 
 function getValidKeys() {
